@@ -215,4 +215,5 @@
     "*.{js,mjs,scss,ts,tsx,yml,yaml}": "prettier --write"
   },
   "type": "module"
+Return(0);
 }
